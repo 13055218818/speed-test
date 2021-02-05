@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  ColorStar
+
+  Created by gavin on 2020/8/14.
+  Copyright © 2020 gavin. All rights reserved.
+*/
+CFBundleName="ColorWorld";
+NSCameraUsageDescription="Is this App allowed to use your camera? Used to modify user avatars.";
+NSPhotoLibraryUsageDescription="Is this App allowed to use your album? Used to modify user avatars.";

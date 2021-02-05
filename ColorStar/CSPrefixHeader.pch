@@ -1,0 +1,57 @@
+//
+//  CSPrefixHeader.pch
+//  ColorStar
+//
+//  Created by apple on 2020/11/9.
+//  Copyright © 2020 gavin. All rights reserved.
+//
+
+#ifndef CSPrefixHeader_pch
+#define CSPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "CSColorStar.h"
+#import "MJRefresh.h"
+#import "CSNewHomeViewController.h"
+#import "CSNewMineViewController.h"
+#import "CSNewShopViewController.h"
+#import "CSNewCourseViewController.h"
+#import "UIColor+CS.h"
+#import "Masonry.h"
+#import "UIView+CS.h"
+#import "SDCycleScrollView.h"
+#import "FLAnimatedImage.h"
+#import <SDWebImage/SDImageCache.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <SDWebImage/UIButton+WebCache.h>
+#import "CSTotalTool.h"
+#import "CSNewLoginViewController.h"
+#import "NSString+CS.h"
+#import "IQKeyboardManager.h"
+#import <YYText/YYText.h>
+#import <YYModel.h>
+#import "CSNetResponseModel.h"
+#import "NSString+CSAlert.h"
+#import <AFNetworking.h>
+#import "CSAPPConfigManager.h"
+#import "WXApi.h"
+#import "CSTutorPlayViewController.h"
+#import "CSTutorDetailViewController.h"
+#import "MBProgressHUD.h"
+#import "CSNewLoginNetManager.h"
+#import "CSAPPConfigManager.h"
+#import "CSNewLoginUserInfoManager.h"
+#import "CSWebManager.h"
+#import "WHToast.h"
+#import "CSNewHomeNetManager.h"
+#import "CSBaseTabBarController.h"
+#import "AppAuthCore.h"
+#import "AppAuth.h"
+#import "CSNewPayManage.h"
+#import "CSNewMineNetManage.h"
+#import "UIViewController+CS.h"
+#import <NMCLiveStreaming/NMCLiveStreaming.h>
+#import "NEMediaCaptureEntity.h"
+
+#endif /* CSPrefixHeader_pch */

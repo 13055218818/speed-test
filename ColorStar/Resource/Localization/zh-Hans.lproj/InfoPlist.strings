@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  ColorStar
+
+  Created by gavin on 2020/8/14.
+  Copyright © 2020 gavin. All rights reserved.
+*/
+CFBundleName="ColorWorld";
+NSCameraUsageDescription="是否允许此App使用你的相机？用于修改用户头像。";
+NSPhotoLibraryUsageDescription="是否允许此App使用你的相册？用于修改用户头像。";

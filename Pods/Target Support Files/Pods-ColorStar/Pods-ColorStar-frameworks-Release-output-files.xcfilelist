@@ -1,0 +1,3 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NELivePlayerFramework.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NMCBasicModuleFramework.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NMCLiveStreaming.framework

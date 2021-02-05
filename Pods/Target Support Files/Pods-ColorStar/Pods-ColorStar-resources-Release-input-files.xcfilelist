@@ -1,0 +1,14 @@
+${PODS_ROOT}/Target Support Files/Pods-ColorStar/Pods-ColorStar-resources.sh
+${PODS_ROOT}/FBSDKCoreKit/FacebookSDKStrings.bundle
+${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle
+${PODS_ROOT}/IQKeyboardManager/IQKeyboardManager/Resources/IQKeyboardManager.bundle
+${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle
+${PODS_ROOT}/NMCLiveStreaming/NormalSDK/NMCVideoFilter.bundle
+${PODS_ROOT}/TZImagePickerController/TZImagePickerController/TZImagePickerController/TZImagePickerController.bundle
+${PODS_ROOT}/WHToast/WHToast/wtoast_icon/whtoast_error.png
+${PODS_ROOT}/WHToast/WHToast/wtoast_icon/whtoast_error@2x.png
+${PODS_ROOT}/WHToast/WHToast/wtoast_icon/whtoast_error@3x.png
+${PODS_ROOT}/WHToast/WHToast/wtoast_icon/whtoast_success.png
+${PODS_ROOT}/WHToast/WHToast/wtoast_icon/whtoast_success@2x.png
+${PODS_ROOT}/WHToast/WHToast/wtoast_icon/whtoast_success@3x.png
+${PODS_ROOT}/ZFPlayer/ZFPlayer/Classes/ControlView/ZFPlayer.bundle

@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "CSNewHomeFindWeekNewCenterPlay.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "CSNewHomeFindWeekNewCenterPlay@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "CSNewHomeFindWeekNewCenterPlay@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

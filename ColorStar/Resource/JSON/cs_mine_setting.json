@@ -1,0 +1,52 @@
+{
+    "list1":[
+        
+        {
+            "type": "0",
+            "name": "我的资料",
+            "subName":"管理你的课程资料",
+            "image":"cs_mine_course"
+        },
+        {
+            "type": "1",
+            "name": "查看记录",
+            "subName":"共有0条记录",
+            "image":"cs_mine_record"
+        },
+        {
+            "type": "2",
+            "name": "我的收藏",
+            "subName":"已收藏0个",
+            "image":"cs_mine_favorite"
+        },
+        
+        {
+            "type": "10",
+            "name": "关于我们",
+            "image":"cs_mine_about"
+        }
+        
+    ],
+    "list2":[
+        {
+            "type": "0",
+            "name": "我的资料",
+            "subName":"管理你的课程资料",
+            "image":"cs_mine_course"
+        },
+        {
+            "type": "1",
+            "name": "查看记录",
+            "subName":"共有0条记录",
+            "image":"cs_mine_record"
+        },
+        {
+            "type": "2",
+            "name": "我的收藏",
+            "subName":"已收藏0个",
+            "image":"cs_mine_favorite"
+        },
+    ]
+    
+}
+	

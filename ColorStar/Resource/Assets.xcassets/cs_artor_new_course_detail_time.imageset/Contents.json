@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "cs_artor_new_course_detail_time.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "cs_artor_new_course_detail_time@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "cs_artor_new_course_detail_time@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
